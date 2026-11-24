@@ -10,21 +10,6 @@
 | 2026-11-21 | UN_OHCHR_Indigenous_Peoples.html | https://www.ohchr.org/en/indigenous-peoples | OpenCode/harvest | 13e511d0f30fcc496af9514b1726b03984de9c4b6cf8e80ca661e2d0c2b20bc8 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=145154 |
 | 2026-11-21 | CourtListener.html | https://www.courtlistener.com/ | OpenCode/harvest | 3fe1ae749c60731c4c3ba0bb82e3194e35953287872104755d3e313aa28b36b9 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=53377 |
 
-| 2026-11-22 | Library of Congress - Indigenous Law | https://www.loc.gov/law/help/american-indian-consts/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | US_National_Archives.html | https://www.archives.gov/ | OpenCode/harvest | b1be5889069b829d9a2e1f7c05017dd31c0dca382d1e3b3a18d7ef8b6bc77893 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=29358 |
-| 2026-11-22 | Library_of_Congress.html | https://www.loc.gov/ | OpenCode/harvest | 954e885a8a94a297bfad4f39decbc776a07bbec9253527ed3295f17931b3652b | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=75819 |
-| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | Internet_Archive.html | https://archive.org/ | OpenCode/harvest | 329de0d85f6904215feec653c153fdc1f7f8807e3bfaedb8c05542fcf3c2419f | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=2046 |
-| 2026-11-22 | FOIA.gov.html | https://www.foia.gov/ | OpenCode/harvest | 631502b471a80fe231f6c9bbecda190e6a78826d8fd67a35356aa76a97a63aa9 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=28089 |
-| 2026-11-22 | NARA_FOIA.html | https://www.archives.gov/foia | OpenCode/harvest | 10a153c64fe2af1e0ff231a21507c4f5d0ee75706dff0532d5dd63839c47fe66 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=41023 |
-| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | WorldCat.html | https://search.worldcat.org/ | OpenCode/harvest | 169cd1491b1df863170b463c8783d9acee80468fc47b91703302507bb5522c00 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=460996 |
-| 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
-| 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
-
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.
